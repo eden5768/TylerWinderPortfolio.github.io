@@ -10,7 +10,7 @@ I am a very hardworking and determined individual. As if this wasn't enough, I a
 # Projects
 
 # Certificates
-![](Dean_List_for_Fall (1).png)
-![](Dean_List_for_Fall (2).png)
-![](Dean_List_for_Spring (1).png)
+![](Dean_List_for_Fall(1).png)
+![](Dean_List_for_Fall(2).png)
+![](Dean_List_for_Spring(1).png)
 ![](Dean_List_for_Spring.png)
