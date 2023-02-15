@@ -10,7 +10,10 @@ I am a very hardworking and determined individual. As if this wasn't enough, I a
 # Projects
 ##EGR 201
 ![Link to Life Cycle Analysis](Life_Cycle_Analysis.md)
+
 ![Link to Final Project Modeling Appendix](Final_Project_Modeling_Appendix.md)
+
+![Link to Final Project Dissemination](final_Project_Dissemination.md)
 
 ##EGR 202
 ![Link to EGR 202 Final Project](EGR202.md)
