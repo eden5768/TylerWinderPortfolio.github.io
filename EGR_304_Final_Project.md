@@ -421,7 +421,7 @@ Search</u>](https://www.google.com/search?q=robotic+kids+learning&sxsrf=ALiCzsYh
 [<u>Link</u>](https://www.amazon.com/Projects-Science-Building-Experiments-Teenage/dp/B0918LXXVV/ref=sr_1_60?crid=2RVIC3TXU9YDR&keywords=robotic+kids+learning&qid=1661918795&sprefix=robotic+kids+learning%2Caps%2C117&sr=8-60)
 for the product
 
-<img src="media/image20.jpg" style="width:3.08854in;height:3.16939in" />
+<img src="photo/image25.jpg" style="width:3.08854in;height:3.16939in" />
 
 **<u>Figure 2.Solar Robots</u>**
 
@@ -551,7 +551,7 @@ Search</u>](https://www.google.com/search?q=robotic+kids+science+kits&sxsrf=ALiC
 [<u>Link</u>](https://www.amazon.com/dp/B07L59DZPT/ref=syn_sd_onsite_desktop_45?ie=UTF8&pf_rd_p=ec7e49ff-ccce-49e1-b560-6096a83a001b&pf_rd_r=M1YEYGXN71JSKK3QF88Q&pd_rd_wg=0QNVI&pd_rd_w=BaVIq&pd_rd_r=fc96d6bd-24bc-493b-bbbf-de08ba97c23f&th=1)
 to the product
 
-<img src="media/image14.jpg" style="width:3.28125in;height:2.9421in" />
+<img src="photo/image6.jpg" style="width:3.28125in;height:2.9421in" />
 
 **<u>Figure 3. Makeblock mBot</u>**
 
@@ -687,7 +687,7 @@ When kids get more confident they can even make their own robots.
 [<u>Link</u>](https://www.amazon.com/Robot-Kit-Kids-Construction-ThinkGizmos/dp/B01ANWSYE8?th=1)
 to the product
 
-<img src="media/image32.jpg" style="width:2.92708in;height:2.88391in" />
+<img src="photo/image35.jpg" style="width:2.92708in;height:2.88391in" />
 
 **<u>Figure 3. ThinkGizmos Ingenious Machines Build Kit</u>**
 
@@ -818,7 +818,7 @@ Description:
 [<u>Link</u>](https://www.amazon.com/Electronic-Assembly-Robotic-Building-Experiments-Projects/dp/B07X7NQL88/ref=sr_1_8?crid=1OX4MLSOM7D1&keywords=robotics+toys+for+kids&qid=1661978044&sprefix=robotics+toys+for+kids%2Caps%2C161&sr=8-8)
 to the product
 
-<img src="media/image16.jpg" style="width:2.83854in;height:2.89624in" />
+<img src="photo/image26.jpg" style="width:2.83854in;height:2.89624in" />
 
 **<u>Figure 5. Set STEM Kit</u>**
 
@@ -974,7 +974,7 @@ ideas and struggled on the small details. Tyler Winder invented and
 sketched the first two concepts, and William Drubka created and modeled
 the third and final concept.
 
-<img src="media/image33.png" style="width:6.56771in;height:3.69434in" />
+<img src="photo/image34.png" style="width:6.56771in;height:3.69434in" />
 
 **<u>Figure 9. Design Ideation</u>**
 
@@ -984,7 +984,7 @@ amount of ideas we devised during this process, we used colors to show
 who was picking what out of their ‘idea salad’ to be used in the next
 step, which was another Venn diagram shown below.
 
-<img src="media/image9.png" style="width:4.85938in;height:2.96875in" />
+<img src="photo/image3.png" style="width:4.85938in;height:2.96875in" />
 
 **<u>Figure 10. Design Ideas grouping</u>**
 
@@ -996,7 +996,7 @@ Fleet Museum for the scope of this project. With these ideas in mind, we
 developed three concept designs for what our robotic exhibit could look
 like.
 
-<img src="media/image19.png" style="width:3.83771in;height:3.62711in" />
+<img src="photo/image27.png" style="width:3.83771in;height:3.62711in" />
 
 **<u>Figure 11. First Concept Idea</u>**
 
@@ -1006,7 +1006,7 @@ the segments and which way they can bend. By stacking these segments on
 top of each other and controlling which way they bend they make a
 robotic octopus-like arm.
 
-<img src="media/image10.png" style="width:4.47396in;height:2.54329in" />
+<img src="photo/image15.png" style="width:4.47396in;height:2.54329in" />
 
 **<u>Figure 12. Second Concept Idea</u>**
 
@@ -1015,7 +1015,7 @@ is made of hard plastic rods that are connected by a soft flexible
 membrane. By bending the different rods to stretch the membrane it
 allows for movement in one direction but not the other.
 
-<img src="media/image30.png" style="width:3.79167in;height:4.21618in" />
+<img src="photo/image30.png" style="width:3.79167in;height:4.21618in" />
 
 **<u>Figure 13. Third Concept Idea</u>**
 
@@ -1046,11 +1046,11 @@ over breakage and potential safety hazards, and therefore the snake
 ended up being our safest, most simple, and most fun design that we
 decided to stick with.
 
-<img src="media/image11.png" style="width:4.67815in;height:3.3972in" />
+<img src="photo/image20.png" style="width:4.67815in;height:3.3972in" />
 
 **<u>Figure 14. Top view of the final design</u>**
 
-<img src="media/image27.png" style="width:4.77652in;height:3.3972in" />
+<img src="photo/image36.png" style="width:4.77652in;height:3.3972in" />
 
 **<u>Figure 15. Bottom view of the final design</u>**
 
@@ -1071,7 +1071,7 @@ After deciding on the project concept our next step was to create the
 block diagram that shows every team member’s subsystem for the project
 as shown below:
 
-<img src="media/image12.jpg" style="width:4.19995in;height:4.90185in" />
+<img src="photo/image5.jpg" style="width:4.19995in;height:4.90185in" />
 
 **<u>Figure 16. Final Block Diagram</u>**
 
