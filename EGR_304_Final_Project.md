@@ -285,7 +285,7 @@ Search</u>](https://www.google.com/search?q=robotic+kids+learning&sxsrf=ALiCzsYh
 [<u>Link</u>](https://www.amazon.com/Giggleway-Electric-Building-Experiment-Girls-Doodling/dp/B07N4GWDZM/ref=sr_1_3?crid=2RVIC3TXU9YDR&keywords=robotic+kids+learning&qid=1661918380&sprefix=robotic+kids+learning%2Caps%2C117&sr=8-3)
 for the product
 
-<img src="media/image5.jpg" style="width:2.69792in;height:2.69792in" />
+<img src="photo/image1.jpg" style="width:2.69792in;height:2.69792in" />
 
 **<u>Figure 1.Giggleway Electric Motor Robot Kit</u>**
 
