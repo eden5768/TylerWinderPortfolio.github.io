@@ -8,14 +8,14 @@ My name is Tyler Winder and I am currently a dual major in electrical and softwa
 
 I am a very hardworking and determined individual. As if this wasn't enough, I am also a black belt in Karate, an Eagle Scout, and I spent two years of my life as a Church Service Missionary in Buenos Aires, Argentina.
 # Projects
-##EGR 201
+## EGR 201
 ![Link to Life Cycle Analysis](Life_Cycle_Analysis.md)
 
 ![Link to Final Project Modeling Appendix](Final_Project_Modeling_Appendix.md)
 
 ![Link to Final Project Dissemination](final_Project_Dissemination.md)
 
-##EGR 202
+## EGR 202
 ![Link to EGR 202 Final Project](EGR202.md)
 # Certificates
 ![](Dean_List_for_Fall(1).png)
