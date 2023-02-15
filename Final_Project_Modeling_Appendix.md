@@ -39,45 +39,45 @@ Pete the Plastic Robot
 
 By Adam and Tyler
 
-<img src="media/image3.jpg" style="width:6.75376in;height:4.90104in" alt="Diagram Description automatically generated with medium confidence" />
+![](image7.jpg)
 
-<img src="media/image4.jpg" style="width:8.95278in;height:6.5in" alt="Diagram Description automatically generated" />
+1[](image9.jpg)
 
 Through years and years of plastic being thrown away, eventually there
 came a time where a scattering of plastics landed in such a way that
 formed our dear friend, Pete the plastic robot.
 
-<img src="media/image7.jpg" style="width:8.95278in;height:6.5in" alt="Diagram Description automatically generated" />
+![](image8.jpg)
 
 Unfortunately, Pete knew that he was made from items that were
 discarded, he was made from things that people didn't want any more.
 That made Pete sad. 
 
-<img src="media/image8.jpg" style="width:8.95278in;height:6.5in" alt="Diagram Description automatically generated" />
+![](image11.jpg)
 
 Pete began to explore the beaches, in hopes of meeting someone to play
 with him. Suddenly, a turbulent gust sent Pete somersaulting into the
 ocean!
 
-<img src="media/image2.jpg" style="width:8.95278in;height:6.5in" alt="Diagram Description automatically generated" />
+![](image10.jpg)
 
 But Pete did not give up! The strong little robot swam and swam all the
 way back to land and fended off the fish as he waded by! Pete finally
 got to land where he thought to himself, “I'm going to make a house, so
 I don't get blown away again.”
 
-<img src="media/image11.jpg" style="width:8.95278in;height:6.5in" alt="Diagram Description automatically generated" />
+![](image2.jpg)
 
 Pete Began collecting all the plastic he found on the beach and started
 to make many little bricks by heating up the plastic and forming them in
 molds.
 
-<img src="media/image6.jpg" style="width:8.95278in;height:6.5in" alt="Chart Description automatically generated" />
+![](image1.jpg)
 
 He then took those little bricks, and one by one, finished his ever so
 grand plastic house.
 
-<img src="media/image10.jpg" style="width:8.95278in;height:6.5in" alt="Diagram Description automatically generated" />
+![](image4.jpg)
 
 One day while taking a walk around his house, Pete noticed a boy who
 seemed to be crying. “Why so blue?” asked Pete.
@@ -92,7 +92,7 @@ The boy said to Pete “I’m glad you’ve come by; I’ve needed a friend.”
 
 Pete said to the boy, “I know just what to do then!”
 
-<img src="media/image1.jpg" style="width:8.95278in;height:6.5in" alt="Diagram Description automatically generated" />
+![](image3.jpg)
 
 Pete took the boy along the beaches to collect some plastic and after
 some prized pieces were found, Pete and the boy got to work.
@@ -105,7 +105,7 @@ for cleaning up the beaches! 
 “Thank you Thank you! I’ve always wanted to help and now that I’ve
 finally been put together, I can do my part!” said Cody.
 
-<img src="media/image5.jpg" style="width:8.95278in;height:6.5in" alt="A picture containing text Description automatically generated" />
+![](image6.jpg)
 
 The boy then had an idea! If he took his new robot friends to class,
 maybe that would get some of the kids in his classes to pick up trash
@@ -122,7 +122,7 @@ one by one a new recycled buddy jumped into action! A workshop of robot
 friends jumped at the idea of making new friends, with each other, the
 classmates, and of course, Pete, the boy, and Cody.
 
-<img src="media/image9.jpg" style="width:8.95278in;height:6.5in" alt="A picture containing text Description automatically generated" />
+![](image5.jpg)
 
 Then each of the robots and their new friends set out to make new
 friends on the beaches so that eventually everyone would have a plastic
