@@ -22,7 +22,7 @@ I am a very hardworking and determined individual. As if this wasn't enough, I a
 ## EGR 202
 ![Link to EGR 202 Final Project](EGR202.md)
 ## EGR 314
-![Link to EGR 314 current progress](https://team-302.github.io/)
+[Link to EGR 314 current progress](https://team-302.github.io/)
 # Certificates
 ![](Dean_List_for_Fall(1).png)
 ![](Dean_List_for_Fall(2).png)
