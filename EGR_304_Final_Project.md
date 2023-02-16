@@ -1106,7 +1106,7 @@ had and how the choices were made.
 <th><strong>Cons: "does not meet requirements"</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image2.png" style="width:1.98438in;height:1.99103in" /></p>
+<th><p><img src="photo/image17.png" style="width:1.98438in;height:1.99103in" /></p>
 <p>Option 1</p>
 <p>Part #: <a href="https://www.digikey.com/en/products/detail/sharp-socle-technology/GP2Y0A41SK0F/3884447?utm_adgroup=Sensors%20%26%20Transducers&amp;utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=Dynamic%20Search_EN_Product&amp;utm_term=&amp;utm_content=Sensors%20%26%20Transducers&amp;gclid=CjwKCAjw4c-ZBhAEEiwAZ105RSZX_wGHzmzeN_qyoB-lpLzFLv5bV2hwPiQ4LQH3e1TnXGCC2YJWORoCElIQAvD_BwE"><u>GP2Y0A41SK0F</u></a></p>
 <p>Unit Price: $11.52</p>
@@ -1136,7 +1136,7 @@ had and how the choices were made.
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="media/image31.png" style="width:1.98859in;height:1.99526in" /></p>
+<th><p><img src="photo/image21.png" style="width:1.98859in;height:1.99526in" /></p>
 <p>Option 2</p>
 <p>Part #: <a href="https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B5W-LA01/6004942"><u>B5W-LA01</u></a></p>
 <p>Unit Price: $8.35</p>
@@ -1172,9 +1172,9 @@ had and how the choices were made.
 <p>Unit Prices: QSE113 - $0.98</p>
 <p>QED223 - $1.07</p>
 <p>QSE113 <a href="https://www.mouser.com/datasheet/2/308/1/QSE114_D-1814545.pdf"><u>datasheet</u></a>.</p>
-<p><img src="media/image8.jpg" style="width:1.56537in;height:1.57192in" /></p>
+<p><img src="photo/image2.jpg" style="width:1.56537in;height:1.57192in" /></p>
 <p>QED223 <a href="https://www.mouser.com/datasheet/2/308/1/QED223_D-1814635.pdf"><u>datasheet</u></a>.</p>
-<p><img src="media/image24.png" style="width:1.78886in;height:1.00568in" /></p></th>
+<p><img src="photo/image9.png" style="width:1.78886in;height:1.00568in" /></p></th>
 <th><ul>
 <li><blockquote>
 <p>Through-hole.</p>
@@ -1226,7 +1226,7 @@ we decided to use in place of the daughter board sensors.
 <th><strong>Cons: "does not meet requirements"</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image25.jpg" style="width:1.96104in;height:2.16193in" /></p>
+<th><p><img src="photo/image37.jpg" style="width:1.96104in;height:2.16193in" /></p>
 <p>Option 1:</p>
 <p>Part #:‎<a href="https://www.amazon.com/Pressure-Precise-Force-Sensitive-Resistor-Resistance-type/dp/B07T1CHY58/ref=asc_df_B07T1CHY58/?tag=hyprod-20&amp;linkCode=df0&amp;hvadid=475788796522&amp;hvpos=&amp;hvnetw=g&amp;hvrand=18029002357907874114&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9030031&amp;hvtargid=pla-1002375752122&amp;psc=1"><u>Walfront9snmyvxw25</u></a></p>
 <p>Unit Price: $9.99</p>
@@ -1254,7 +1254,7 @@ we decided to use in place of the daughter board sensors.
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="media/image3.jpg" style="width:1.41137in;height:1.93377in" /></p>
+<th><p><img src="photo/image14.jpg" style="width:1.41137in;height:1.93377in" /></p>
 <p>Option 2:</p>
 <p>Model: <a href="https://www.amazon.com/Pressure-Sensor-Accuracy-Intelligent-High-end/dp/B07WCPNTT9/ref=asc_df_B07WCPNTT9/?tag=hyprod-20&amp;linkCode=df0&amp;hvadid=532400209419&amp;hvpos=&amp;hvnetw=g&amp;hvrand=16880014042348238864&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9030031&amp;hvtargid=pla-1202952590541&amp;psc=1"><u>RP-S40-ST</u></a></p>
 <p>Unit Price: $12.19</p>
@@ -1278,7 +1278,7 @@ we decided to use in place of the daughter board sensors.
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image35.jpg" style="width:1.9795in;height:1.49054in" /></p>
+<th><p><img src="photo/image38.jpg" style="width:1.9795in;height:1.49054in" /></p>
 <p>Option 3:</p>
 <p>Model: <a href="https://www.adafruit.com/product/1071?gclid=CjwKCAjwvsqZBhAlEiwAqAHEld-I0kWmDUy6hYndZrYQuB8InnbmkrDh2PkZZ471d_SGU4zGKAADBRoCKDcQAvD_BwE"><u>408 FSR</u></a></p>
 <p>Unit Price: $19.95</p>
@@ -1333,7 +1333,7 @@ we can have a backup in case something goes wrong.
 <th><strong>Cons: "does not meet requirements"</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image7.png" style="width:1.97136in;height:1.98037in" /></p>
+<th><p><img src="photo/image10.png" style="width:1.97136in;height:1.98037in" /></p>
 <p>Option 1:</p>
 <p><a href="https://www.amazon.com/AUTOTOOLHOME-Torque-Traxxas-Wheels-Electric/dp/B01M58POHF/ref=sr_1_4?crid=27CDEQBYHQXN2&amp;keywords=12v+dc+motor&amp;qid=1663798619&amp;sprefix=12v+dc+motor%2Caps%2C164&amp;sr=8-4"><u>AutoToolHome JYCRS390H</u></a></p>
 <p>6-12V Mini DC Motor</p>
@@ -1365,7 +1365,7 @@ we can have a backup in case something goes wrong.
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="media/image1.png" style="width:1.93813in;height:1.93813in" /></p>
+<th><p><img src="photo/image16.png" style="width:1.93813in;height:1.93813in" /></p>
 <p>Option 2:</p>
 <p><a href="https://www.digikey.com/en/products/detail/adafruit-industries-llc/324/5022791"><u>Adafruit Industries LLC 1528-1062-ND</u></a></p>
 <p>Bipolar 12V Hybrid Stepper Motor</p>
@@ -1395,7 +1395,7 @@ we can have a backup in case something goes wrong.
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image18.png" style="width:1.93229in;height:1.93229in" /></p>
+<th><p><img src="photo/image28.png" style="width:1.93229in;height:1.93229in" /></p>
 <p>Option 3:</p>
 <p><a href="https://www.digikey.com/en/products/detail/portescap/26M048B2U/417811"><u>Portescap 26M048B2U</u></a></p>
 <p>Unipolar 12V Stepper Motor</p>
@@ -1458,7 +1458,7 @@ available.
 <th><strong>Cons: "does not meet requirements"</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image38.png" style="width:1.96642in;height:1.38068in" /></p>
+<th><p><img src="photo/image11.png" style="width:1.96642in;height:1.38068in" /></p>
 <p>Option 1</p>
 <p><a href="https://www.adafruit.com/product/2164"><u>5V 1.5A Linear Voltage Regulator - 7805 TO-220</u></a></p>
 <p>Price: $0.75</p>
@@ -1490,7 +1490,7 @@ available.
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="media/image37.png" style="width:2.0023in;height:1.80931in" /></p>
+<th><p><img src="photo/image39.png" style="width:2.0023in;height:1.80931in" /></p>
 <p>Option 2</p>
 <p><a href="https://www.amazon.com/ALEDECO-Voltage-Motor-Speed-Controller/dp/B07P2BLG2L/ref=asc_df_B07P2BLG2L/?tag=&amp;linkCode=df0&amp;hvadid=343187910376&amp;hvpos=&amp;hvnetw=g&amp;hvrand=17305113640810748725&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9030095&amp;hvtargid=pla-687131066147&amp;ref=&amp;adgrpid=69721953515&amp;th=1"><u>ALEDECO PWM Low Voltage Dc 1.8V 3V 5V 6V 12V 2A Motor Speed Controller</u></a></p>
 <p>Price: $5.99</p>
@@ -1522,7 +1522,7 @@ available.
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image39.png" style="width:2.06395in;height:1.46295in" /></p>
+<th><p><img src="photo/image18.png" style="width:2.06395in;height:1.46295in" /></p>
 <p>Option 3</p>
 <p><a href="https://www.adafruit.com/product/2236"><u>5.0V 250mA Linear Voltage Regulator - L4931-5.0 TO-92</u></a></p>
 <p>Price: $1.50</p>
@@ -1581,7 +1581,7 @@ watts without burning more than the third option.
 <th><strong>Cons: "does not meet requirements"</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image26.png" style="width:1.94364in;height:1.94364in" /></p>
+<th><p><img src="photo/image24.png" style="width:1.94364in;height:1.94364in" /></p>
 <p>Option 1:</p>
 <p><a href="https://www.digikey.com/en/products/detail/onsemi/FAN8100N/966896"><u>FAN8100N H-Bridge</u></a></p>
 <p>H-Bridge Motor Driver</p>
@@ -1611,7 +1611,7 @@ watts without burning more than the third option.
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="media/image4.png" style="width:1.95956in;height:1.10559in" /></p>
+<th><p><img src="photo/image12.png" style="width:1.95956in;height:1.10559in" /></p>
 <p>Option 2:</p>
 <p><a href="https://www.ti.com/product/DRV8212"><u>Texas Instruments DRV8212</u></a></p>
 <p>Low Voltage H-Bridge Motor Driver</p>
@@ -1644,7 +1644,7 @@ watts without burning more than the third option.
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image22.png" style="width:1.99746in;height:2.00568in" /></p>
+<th><p><img src="photo/image31.png" style="width:1.99746in;height:2.00568in" /></p>
 <p>Option 3:</p>
 <p><a href="https://www.digikey.com/en/products/detail/stmicroelectronics/L298N/585918?utm_adgroup=Supplier_STM&amp;utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=EN_Supplier_STMicroelectronics&amp;utm_term=l298n&amp;utm_content=Supplier_STM&amp;utm_id=bi_cmp-25179810_adg-1296324539851297_ad-81020353393648_kwd-81020466120565:aud-808187299:loc-190_dev-c_ext-_prd-&amp;msclkid=83835a0b2b5615e40d15395c30cb1e62"><u>STMicroelectronics L298N</u></a></p>
 <p>Dual Full-Bridge Driver</p>
@@ -1709,7 +1709,7 @@ will control the anisotropic snake’s motion.
 
 ***Schematic:***
 
-<img src="media/image28.png" style="width:6.5in;height:4.48611in" />
+<img src="photo/image32.png" style="width:6.5in;height:4.48611in" />
 
 **<u>Figure 17. Schematic design</u>**
 
@@ -1728,11 +1728,11 @@ of the snake.
 
 ***PCB Design***
 
-<img src="media/image36.png" style="width:4.00521in;height:3.10404in" />
+<img src="photo/image29.png" style="width:4.00521in;height:3.10404in" />
 
 **<u>Figure 18. PCB Top layer</u>**
 
-<img src="media/image6.png" style="width:3.95346in;height:3.10706in" />
+<img src="photo/image13.png" style="width:3.95346in;height:3.10706in" />
 
 **<u>Figure 19. PCB Bottom layer</u>**
 
@@ -1740,15 +1740,15 @@ This is our pcb design. We managed to fit everything in less than
 10x10cm pcb. This is our front and back layers . The front layer is our
 5v connection and the back layer is the blue layer which is our ground.
 
-<img src="media/image34.png" style="width:6.36458in;height:4.839in" />
+<img src="photo/image8.png" style="width:6.36458in;height:4.839in" />
 
 **<u>Figure 20. PCB Design</u>**
 
-<img src="media/image23.jpg" style="width:3.02454in;height:2.2897in" />
+<img src="photo/image33.jpg" style="width:3.02454in;height:2.2897in" />
 
 **<u>Figure 21. PCB Top view in the components soldering process</u>**
 
-<img src="media/image17.jpg" style="width:3.06771in;height:2.31061in" />
+<img src="photo/image22.jpg" style="width:3.06771in;height:2.31061in" />
 
 **<u>Figure 22. PCB Bottom view</u>**
 
@@ -1791,7 +1791,7 @@ and how the robot’s activity loops until it is turned off via switch.
 Figure 23 is a broad and basic description of the logical progression.
 The final Psoc code can be found [<u>below</u>](#y0pw1gkztr5h).
 
-<img src="media/image21.png" style="width:2.96875in;height:5.63203in" />
+<img src="photo/image23.png" style="width:2.96875in;height:5.63203in" />
 
 **<u>Figure 23. Software logic flow chart</u>**
 
@@ -1997,13 +1997,13 @@ that data.
 
 **<u>Power budget</u>**
 
-<img src="media/image13.png" style="width:5.87931in;height:4.37338in" />
+<img src="photo/image7.png" style="width:5.87931in;height:4.37338in" />
 
-<img src="media/image15.png" style="width:5.87171in;height:3.64273in" />
+<img src="photo/image19.png" style="width:5.87171in;height:3.64273in" />
 
 **BOM**
 
-<img src="media/image29.png" style="width:6.5in;height:2.08333in" />
+<img src="photo/image4.png" style="width:6.5in;height:2.08333in" />
 
 **Psoc code**
 
