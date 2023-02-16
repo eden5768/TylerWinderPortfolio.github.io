@@ -23,6 +23,7 @@ I am a very hardworking and determined individual. As if this wasn't enough, I a
 [Link to EGR 202 Final Project](/EGR202.md)
 ## EGR 304
 [Link to EGR 304 Final Project](EGR_304_Final_Project.md)
+
 [Link to working product video](https://youtu.be/ogYLJQNt4fU)
 ## EGR 314
 [Link to EGR 314 current progress](https://team-302.github.io/)
