@@ -27,6 +27,12 @@ I am a very hardworking and determined individual. As if this wasn't enough, I a
 [Link to working product video](https://www.youtube.com/watch?v=ogYLJQNt4fU)
 ## EGR 314
 [Link to EGR 314 current progress](https://team-302.github.io/)
+
+## Electrical Capstone
+[Link to Electrical Capstone](https://drive.google.com/drive/folders/15yLvw7X1uW4zCVzxmLmZg3qk53488I6b?usp=sharing)
+
+## Software Capstone
+[Link to Software Capstone](https://drive.google.com/drive/folders/1KBTAUH5FlOX45L2F5Yo_HSH1Hz0hNgeP?usp=sharing)
 # Certificates
 ![](Dean_List_for_Fall(1).png)
 ![](Dean_List_for_Fall(2).png)
@@ -38,3 +44,4 @@ I am a very hardworking and determined individual. As if this wasn't enough, I a
 ![](eaglescout.jpg)
 ![](mission.jpg)
 ![](seminary.jpg)
+![](subcert.png)
